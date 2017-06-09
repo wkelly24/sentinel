@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="i-sentinel Ingres/Net CL"
+    id="6cb9e2fb"
+    documentation="Port 18016 opened up for Ingres/Net communications "/>

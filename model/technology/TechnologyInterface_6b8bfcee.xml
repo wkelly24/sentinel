@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="i-sentinel SSH"
+    id="6b8bfcee"
+    documentation="Port 22 opened up for SSH connections"/>

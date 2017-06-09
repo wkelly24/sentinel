@@ -1,0 +1,11 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="7520055e">
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_9384ea1b.xml#9384ea1b"/>
+  <target
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_2988a747.xml#2988a747"/>
+</archimate:AggregationRelationship>

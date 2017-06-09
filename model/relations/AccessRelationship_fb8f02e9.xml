@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="fb8f02e9"
+    accessType="3">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_deacbeff.xml#deacbeff"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_5c5fb285.xml#5c5fb285"/>
+</archimate:AccessRelationship>

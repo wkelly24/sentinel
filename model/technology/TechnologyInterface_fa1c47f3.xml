@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="i-sentinel"
+    id="fa1c47f3"
+    documentation="i-sentinel is an IP address (192.168.223.191) associated with the cluster service Ingres on the sentinel cluster"/>

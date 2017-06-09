@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High Volume Replication"
+    id="72b8939e">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_823916bf.xml#823916bf"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_d8d4f406.xml#d8d4f406"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clustered Application Deployment"
+    id="a9d3e45b"
+    documentation="The device assigned to &quot;Managing Software Deployment&quot; ensures that the versions of deployed applications on the various Cells on the portal server are kept consistent.">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_5999cf3d.xml#5999cf3d"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_1d28f85d.xml#1d28f85d"/>
+</archimate:FlowRelationship>

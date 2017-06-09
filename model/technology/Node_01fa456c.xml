@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linux Xen Guest"
+    id="01fa456c"
+    documentation="A Linux Xen guest virtual machine. Generally these have 2 virtual CPUs attached and have 2 routes to the SAN and 2 routes to the general purpose network."/>

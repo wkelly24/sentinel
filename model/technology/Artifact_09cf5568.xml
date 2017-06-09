@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HVR Hub Database (sqahubdb)"
+    id="09cf5568"
+    documentation="Hub database used for managing HVR jobs &amp; schedules"/>

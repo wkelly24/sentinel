@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APS Server Side Software"
+    id="19ff2e19"
+    documentation="Server side software, mostly in the form of SQL scripts or ABF programs to run batch jobs (e.g. certification, invoicing, EX6s)"/>

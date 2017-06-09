@@ -1,0 +1,11 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="1f9ffc74">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_e099a13d.xml#e099a13d"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_690f8148.xml#690f8148"/>
+</archimate:SpecializationRelationship>

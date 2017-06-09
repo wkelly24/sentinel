@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CentOS Linux Guest OS"
+    id="f2086612"
+    documentation="Generally paravirtualised RedHat Enterprise Linux 5.11"/>

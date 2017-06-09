@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linux Xen Host"
+    id="7a559357"
+    documentation="A Linux Xen Host. These generally have 2Gb of reserved memory for the base machine's operating system to prevent crashes due to memory ballooning starving the host of memory. These are almost all HP DL360 Gen8 machines (there are two Gen7 machines in the Glasgow cluster) with two extra quad port network cards. "/>

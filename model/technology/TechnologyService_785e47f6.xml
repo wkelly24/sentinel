@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingres"
+    id="785e47f6"
+    documentation="The Ingres service provides everything needed to run the Ingres database software providing the sqadb database, which is replicated using HVR and has batch APS jobs run against it"/>

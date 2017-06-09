@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="i-sentinel Ingres JDBC CL7"
+    id="2cad45c1"
+    documentation="Port 18023 opened up for Java JDBC connections to Ingres"/>
